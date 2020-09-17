@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-* Name of company
+* Company Name.
 
 * When was the company incorporated?
 
