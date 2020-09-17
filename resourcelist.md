@@ -1,6 +1,11 @@
-https://builtin.com/houston/houston-startups
+# Resource List
+
+[builtin.com/houston](https://builtin.com/houston/houston-startups)
+
 https://www.houston.org/news/fintech-co-billcom-announces-expansion-houston
+
 http://thetechtribune.com/10-best-tech-startups-in-houston/
+
 https://houston.innovationmap.com/houston-based-high-radius-partners-with-thomson-reuters-2640579436.html
 https://www.benzinga.com/fintech/20/07/16672772/5-houston-fintech-startups-to-watch
  - https://www.beyondfinance.com/
