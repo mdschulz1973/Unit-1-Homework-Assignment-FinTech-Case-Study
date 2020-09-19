@@ -10,17 +10,20 @@
   
 * Kraken was founded in 2011 by Jesse Powell, who remains CEO of the Exchange, based in San Francisco.  
 
-## Origin of Kraken Financial 
+### Origin of Kraken Financial 
 
 * In 2019, the legislature of Wyoming passed a bill allowing for Special Purpose Depository Institutions ([SPDI](http://wyomingbankingdivision.wyo.gov/home/areas-of-regulation/laws-and-regulation/special-purpose-depository-institution)), which allows banking status to institutions such as Kraken Financial access to the regulatory state in the same way as traditional banks.  On September 16, 2020, the Wyoming Banking Board voted unanimously to grant Kraken Financial it's charter as an SPDI.  David Kinitsky was hired as CEO of Kraken Financial to head operations in Wyoming beginning this year.
   
 
 ## Kraken Financial Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+* What specific financial problem is the company or project trying to solve?  Better regulatory position. Good control location for custody.  Infrastructure, direct access to the federal payments system and integrate that into customer products and experiences.  Offer different products, and serve a different category of customers, such as institutions.
+* 
+* 2019, when Wyoming passed a law allowing cryptocurrency exchanges to operate as banks, which can both receive deposits and custody assets.  Previously, exchanges were allowed to operate under a different set of rules as Money Services Businesses (MSB).  This set of rules limits the financial institution to exchanging currency only, and proscribes them from taking deposits, providing interest bearing accounts, and engaging customers with other services that involve the holding of customer money.  However, SPDI are NOT allowed to make loans of any kind.  No fractional reserve banking nor associated lending activities.  Currently, SPDI are limited by law to serving business customers with $5000 on deposit at the institution.
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* Kraken Financial's focus is on U.S. business and institutional customers.  The market size is currently limited to those with knowledge of cryptocurrencies, but as public awareness increases and the availablity of bank-like crypto services increases, the market size will increase.  That said, it's hard to put a number on this because of it's potential to be so large.  Kraken has been in the crypto exchange market for nine years, which seems like a short duration, but they were one of the first large exchanges to list BTC and fiat currency.  They have also survived the innumerable security challenges that many others have succumbed to.  Therefore, Kraken brings years of expertise in security, exchange activities, and regulatory challenges that newcomers will not have.  Also, they do not have the baggage carried by the TBTF banks that may also enter this space, giving Kraken an optical advantage.  Among the other crypto exchanges, they are the first and so far only with a charter allowing them bank-like status so any early adopters have a only a single choice.
+
+
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 

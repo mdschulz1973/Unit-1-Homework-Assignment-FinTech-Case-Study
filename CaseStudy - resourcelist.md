@@ -22,3 +22,11 @@
 
 [WSJ Funding](https://www.wsj.com/articles/BL-VCDB-14250)
 
+[finCEN Money Services Business](https://www.fincen.gov/money-services-business-definition)
+
+[TX Banks](https://www.dob.texas.gov/banks-trust-companies/texas-state-chartered-banks-holding-companies)
+
+[TX MSB](https://www.dob.texas.gov/money-services-businesses)
+
+[Forbes - Marco Santori CLO interview](https://www.forbes.com/sites/jasonbrett/2020/09/16/cracking-landlocked-wyoming-kraken-wins-first-crypto-bank-charter-in-us-history/#5ae2b6de2afd)
+
