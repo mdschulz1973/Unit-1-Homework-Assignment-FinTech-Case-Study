@@ -25,14 +25,14 @@
 
 
 
-* Which technologies are they currently using, and how are they implementing them? The exchange itself uses blockchain, encryption, multisig transactions, hot and cold storage wallets and two factor authentication.  A software development and security team writes and develop all of their own software.  They are not forthcoming regarding the specific technology they use because of the security risk they would be taking if it was disclosed.
+* Which technologies are they currently using, and how are they implementing them? The exchange itself uses blockchain, encryption, multisig transactions, air-gapped cold storage wallets and two factor authentication.  A software development and security team writes and develop all of their own software.  They are not forthcoming regarding the specific technology they use because of the security risk they would be taking if it was disclosed.
 
 
-## Landscape:
+## Landscape: 
 
-* Kraken Financial is the first toe in the waters of traditional depository banking made by the crypto exchanges.  
+* Crypto exchanges have begun offering futures, derivatives and options on currencies much like traditional financial institutions. 
 
-* Crypto exchanges have begun offering futures, derivatives and options on currencies.  
+* Kraken Financial is the first toe in the waters of traditional depository banking made by the crypto exchanges. 
 
 * Avanti Financial Group, headed by Wall Street veteran Caitlin Long.  It is likely others are applying for SPDI status in Wyoming but there is no official list of applicants online.  It's safe to assume that the TBTF banks are watching this sector carefully and will get in if they believe there is money to be made here.  Because SPDI are not able to lend money in any way, the TBTF banks are not seeing much benefit.
 
@@ -41,11 +41,11 @@
 
 *  The only impact so far has been to spur regulators in Colorado to begin drafting their own charter for similar businesses.  Kraken is not open for business yet, but is in the process of completing pre-opening activities.
 
-* How is your company performing, based on these metrics?  Kraken Exchange is rated in the top 10 exchanges by trading volume and has a reputation as one of the heavywieghts in the space.  Kraken Financial has a SPDI charter so they are literally without peers.
+*   One core metric to watch is the number times and how much coin is stolen during hacks.  For Kraken, that is zero times and zero currency.  Kraken Exchange is rated in the top 10 exchanges by trading volume and has a reputation as one of the heavywieghts in the space.  Kraken Financial has a SPDI charter so they are literally without peers.
 
 
 ## Recommendations
 
-* Kraken already offers everything they can possibly, legally offer to customers.  There's nothing I could add to their slate of products.
+* Kraken already offers everything they can possibly, legally offer to customers.  There's nothing I could add to their slate of products without a lot more time invested in reporting on this space.
 
 
