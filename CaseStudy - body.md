@@ -30,26 +30,22 @@
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?  Kraken Financial is the first toe in the waters of traditional banking made by the crypto exchanges.  
+* Kraken Financial is the first toe in the waters of traditional depository banking made by the crypto exchanges.  
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?  Crypto exchanges have begun offering derivatives and options on currencies, but these have been unregulated, therefore technically illegal in the U.S.  
+* Crypto exchanges have begun offering futures, derivatives and options on currencies.  
 
-* What are the other major companies in this domain?  Avanti Financial Group, headed by Wall Street veteran Caitlin Long.  It is likely others are applying for SPDI status in Wyoming but there is no official list of applicants online.  It's safe to assume that the TBTF banks are watching this sector carefully and will get in if they believe there is money to be made here.  Because SPDI are not able to lend money in any way, the TBTF banks are not seeing much benefit.
+* Avanti Financial Group, headed by Wall Street veteran Caitlin Long.  It is likely others are applying for SPDI status in Wyoming but there is no official list of applicants online.  It's safe to assume that the TBTF banks are watching this sector carefully and will get in if they believe there is money to be made here.  Because SPDI are not able to lend money in any way, the TBTF banks are not seeing much benefit.
 
 
 ## Results
 
-* What has been the business impact of this company so far?  The only impact so far has been to spur regulators in Colorado to begin drafting their own charter for similar businesses.  Kraken is not open for business yet, but is in the process of completing pre-opening activities.
+*  The only impact so far has been to spur regulators in Colorado to begin drafting their own charter for similar businesses.  Kraken is not open for business yet, but is in the process of completing pre-opening activities.
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?  Kraken Exchange is rated in the top 10 exchanges by trading volume and has a reputation as one of the heavywieghts in the space.  Kraken Financial has a SPDI charter so they are literally without peers.
+* How is your company performing, based on these metrics?  Kraken Exchange is rated in the top 10 exchanges by trading volume and has a reputation as one of the heavywieghts in the space.  Kraken Financial has a SPDI charter so they are literally without peers.
 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? 
+* Kraken already offers everything they can possibly, legally offer to customers.  There's nothing I could add to their slate of products.
 
-* Why do you think that offering this product or service would benefit the company?
 
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
